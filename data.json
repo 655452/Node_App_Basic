@@ -1,0 +1,14 @@
+{
+  "notes": [
+    {
+      "title": "hello  this is my new api notes app",
+      "content": "hi these is my actuall api notes app",
+      "id": 2
+    },
+    {
+      "title": "The New Content for new start",
+      "content": "Here is the new start bro",
+      "id": 2
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+# .gitattributes
+* text=auto
+
+# Define specific handling for files
+*.js text eol=lf
